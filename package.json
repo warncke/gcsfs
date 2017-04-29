@@ -1,0 +1,26 @@
+{
+  "author": "Ersun Warncke <ersun.warncke@gmail.com>",
+  "dependencies": {
+    "@google-cloud/storage": "1.1.0"
+  },
+  "description": "Google Cloud Storage virtual fs",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "chai-as-promised": "6.0.0",
+    "mocha": "3.3.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "license": "MIT",
+  "main": "lib/gcsfs.js",
+  "name": "gcsfs",
+  "repository": "warncke/gcsfs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.0.1"
+}
