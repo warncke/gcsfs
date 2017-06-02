@@ -5,9 +5,9 @@
     "bluebird": "3.5.0",
     "concat-stream": "1.6.0",
     "fast-crc32c": "1.0.4",
-    "if-defined": "1.0.4",
+    "if-defined": "1.0.5",
     "lodash": "4.17.4",
-    "merge-args": "0.2.5",
+    "merge-args": "0.2.6",
     "mime-types": "2.1.15"
   },
   "description": "Google Cloud Storage virtual fs",
@@ -29,5 +29,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.4"
+  "version": "0.1.5"
 }
