@@ -5,7 +5,7 @@
     "bluebird": "3.5.0",
     "concat-stream": "1.6.0",
     "fast-crc32c": "1.0.4",
-    "if-defined": "1.0.5",
+    "if-defined": "1.0.6",
     "lodash": "4.17.4",
     "merge-args": "0.2.6",
     "mime-types": "2.1.15"
@@ -29,5 +29,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.5"
+  "version": "0.1.6"
 }
