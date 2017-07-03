@@ -13,7 +13,7 @@
   "description": "Google Cloud Storage virtual fs",
   "devDependencies": {
     "chai": "4.0.2",
-    "chai-as-promised": "7.0.0",
+    "chai-as-promised": "7.1.0",
     "mocha": "3.4.2"
   },
   "directories": {
@@ -29,5 +29,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.9"
+  "version": "0.1.10"
 }
