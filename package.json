@@ -1,18 +1,18 @@
 {
   "author": "Ersun Warncke <ersun.warncke@gmail.com>",
   "dependencies": {
-    "@google-cloud/storage": "1.2.0",
+    "@google-cloud/storage": "1.2.1",
     "bluebird": "3.5.0",
     "concat-stream": "1.6.0",
     "fast-crc32c": "1.0.4",
-    "if-defined": "1.0.8",
+    "if-defined": "1.0.9",
     "lodash": "4.17.4",
-    "merge-args": "0.2.8",
-    "mime-types": "2.1.15"
+    "merge-args": "0.2.9",
+    "mime-types": "2.1.16"
   },
   "description": "Google Cloud Storage virtual fs",
   "devDependencies": {
-    "chai": "4.0.2",
+    "chai": "4.1.0",
     "chai-as-promised": "7.1.1",
     "mocha": "3.4.2"
   },
@@ -29,5 +29,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.11"
+  "version": "0.1.12"
 }
