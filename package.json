@@ -5,14 +5,14 @@
     "bluebird": "3.5.0",
     "concat-stream": "1.6.0",
     "fast-crc32c": "1.0.4",
-    "if-defined": "1.0.10",
+    "if-defined": "1.0.11",
     "lodash": "4.17.4",
-    "merge-args": "0.2.10",
+    "merge-args": "0.2.11",
     "mime-types": "2.1.16"
   },
   "description": "Google Cloud Storage virtual fs",
   "devDependencies": {
-    "chai": "4.1.0",
+    "chai": "4.1.1",
     "chai-as-promised": "7.1.1",
     "mocha": "3.5.0"
   },
@@ -29,5 +29,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.14"
+  "version": "0.1.15"
 }
