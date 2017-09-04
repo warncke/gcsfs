@@ -7,7 +7,7 @@
     "fast-crc32c": "1.0.4",
     "if-defined": "1.0.12",
     "lodash": "4.17.4",
-    "merge-args": "0.2.11",
+    "merge-args": "0.2.12",
     "mime-types": "2.1.17"
   },
   "description": "Google Cloud Storage virtual fs",
@@ -29,5 +29,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.16"
+  "version": "0.1.17"
 }
