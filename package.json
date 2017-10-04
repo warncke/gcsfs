@@ -5,7 +5,7 @@
     "bluebird": "3.5.0",
     "concat-stream": "1.6.0",
     "fast-crc32c": "1.0.4",
-    "if-defined": "1.0.14",
+    "if-defined": "1.0.15",
     "lodash": "4.17.4",
     "merge-args": "0.2.14",
     "mime-types": "2.1.17"
@@ -14,7 +14,7 @@
   "devDependencies": {
     "chai": "4.1.2",
     "chai-as-promised": "7.1.1",
-    "mocha": "3.5.3"
+    "mocha": "4.0.0"
   },
   "directories": {
     "test": "test"
@@ -29,5 +29,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.21"
+  "version": "0.1.22"
 }
